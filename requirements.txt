@@ -1,0 +1,8 @@
+dronekit~=2.9.2
+scikit-fuzzy~=0.4.2
+pymavlink~=2.4.36
+Flask~=2.2.2
+graphviz~=0.20.1
+numpy~=1.23.2
+psutil~=5.9.4
+PyModel~=1.0
